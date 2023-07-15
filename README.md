@@ -1,3 +1,3 @@
 # plnel
 new Code
-2
+2*
