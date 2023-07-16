@@ -25,7 +25,7 @@ def home():
         cur = db.execute("select * from user ")
         data = cur.fetchall()
 
-        return render_template("home.html", data=data)
+        return render_template("index.html", data=data)
 
 
 if __name__ == "__main__":
