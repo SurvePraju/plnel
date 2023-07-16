@@ -1,3 +1,2 @@
 # plnel
-new Code
-2*
+db Connect
